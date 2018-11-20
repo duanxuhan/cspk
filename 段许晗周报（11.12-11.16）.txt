@@ -1,0 +1,4 @@
+1、熟悉AWS环境，查阅官方手册（EC2\RDS\ELB\VPC\CloudFront等）；
+2、登录游戏AWS生产、测试服务器，熟悉环境及查看部署软件；
+3、熟悉AWS自动部署服务（CodeCommit、CodeBuild、CodeDeploy），安装相关软件；
+4、着手部署《彩色跑酷》测试环境。
